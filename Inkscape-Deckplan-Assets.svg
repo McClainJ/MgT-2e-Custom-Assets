@@ -12,7 +12,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg8"
-   sodipodi:docname="Assets-For-Sigrun.svg"
+   sodipodi:docname="Inkscape-Deckplan-Assets.svg"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
    inkscape:export-filename="C:\Users\McClain\Games\Traveller\Custom Ships\Nomad\Refueling-Boat.png"
    inkscape:export-xdpi="3000"
@@ -4672,9 +4672,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="125.06264"
-     inkscape:cy="108.77345"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="71.82797"
+     inkscape:cy="81.695282"
      inkscape:document-units="mm"
      inkscape:current-layer="layer6"
      inkscape:document-rotation="0"
@@ -4703,7 +4703,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -9282,6 +9282,6 @@
          x="34.582901"
          y="27.568687"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.705556px;line-height:1.25;font-family:'Gentium Book Basic';-inkscape-font-specification:'Gentium Book Basic';text-align:center;text-anchor:middle;stroke-width:0.264583"
-         id="tspan9783-3-4">Keep track of your layers,.</tspan></text>
+         id="tspan9783-3-4">Keep track of your layers.</tspan></text>
   </g>
 </svg>
