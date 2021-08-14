@@ -1,0 +1,1 @@
+This directory contains fully illustraited spacecraft publications for Mongoose Traveller - 2nd Edition.
